@@ -1,5 +1,5 @@
-# Name: Kabir Bidhuri
-# Roll No: 2301010461
+# Name: Rohan
+# Roll No: 2301010402
 # Course: BTech CSE CORE
 # Unit 1: Image acquisition, grayscale conversion, sampling awareness
 # Assignment Title: Document Scanner Image Processing

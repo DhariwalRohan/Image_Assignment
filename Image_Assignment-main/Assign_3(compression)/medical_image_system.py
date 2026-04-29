@@ -1,5 +1,5 @@
-# Name: Niti Dagar
-# Roll No: 2301010443
+# Name: Rohan Dhariwal
+# Roll No: 2301010402
 # Course: BTech CSE CORE
 # Unit 3: Segmentation, thresholding, morphology
 # Assignment Title: Medical Image Compression, Segmentation, and Morphological Processing

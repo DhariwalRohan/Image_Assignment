@@ -1,5 +1,5 @@
-﻿# Name: Niti Dagar
-# Roll No: 2301010443
+﻿# Name: Rohan Dhariwal
+# Roll No: 2301010402
 # Course Name: BTech CSE CORE
 # Assignment Title: Intelligent Image Processing Capstone
 # Date: 2026-04-09
